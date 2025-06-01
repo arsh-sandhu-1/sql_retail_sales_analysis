@@ -179,19 +179,18 @@ GROUP BY shift;
 
 ## Findings
 
-- **Customer Demographics**: The dataset includes customers from various age groups, with sales distributed across different categories such as Clothing and Beauty.
-- **High-Value Transactions**: Several transactions had a total sale amount greater than 1000, indicating premium purchases.
-- **Sales Trends**: Monthly analysis shows variations in sales, helping identify peak seasons.
-- **Customer Insights**: The analysis identifies the top-spending customers and the most popular product categories.
+- **Customer Demographics**:  The data spans a diverse customer base, with sales distributed across categories such as Clothing and Beauty.
+- **High-Value Transactions**: Some transactions exceed a total sale amount of 1,000, reflecting premium purchases.
+- **Sales Trends**: Monthly analysis reveals fluctuations in sales, highlighting peak seasons.
+- **Customer Insights**: Identified top-spending customers and the most popular product categories.
 
 ## Reports
 
-- **Sales Summary**: A detailed report summarizing total sales, customer demographics, and category performance.
-- **Trend Analysis**: Insights into sales trends across different months and shifts.
-- **Customer Insights**: Reports on top customers and unique customer counts per category.
+- **Sales Summary**: An overview of total sales, customer demographics, and category-wise performance.
+- **Trend Analysis**: Insights into monthly sales trends and performance shifts.
+- **Customer Insights**: Detailed reports on top customers and unique customer counts for each product category.
 
 ## Conclusion
 
-This project serves as a comprehensive introduction to SQL for data analysts, covering database setup, data cleaning, exploratory data analysis, and business-driven SQL queries. The findings from this project can help drive business decisions by understanding sales patterns, customer behavior, and product performance.
+This project provides a practical introduction to SQL for data analysts, covering essential skills like database creation, data cleaning, exploratory analysis, and business-oriented SQL queries. The insights derived from the analysis can support better business decisions by identifying sales trends, understanding customer behavior, and evaluating product performance.
 
-## How to Use
