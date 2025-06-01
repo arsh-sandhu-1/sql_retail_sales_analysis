@@ -22,6 +22,8 @@ This project showcases foundational SQL skills commonly applied by data analysts
 - **Table Creation**: A table named retail\_sales is created to store the sales data. The table structure includes columns for transaction ID, sale date, sale time, customer ID, gender, age, product category, quantity sold, price per unit, cost of goods sold (COGS), and total sale amount.
 
 ```sql
+CREATE DATABASE sql_project_p1;
+
 DROP TABLE IF EXISTS retail_sales;
 CREATE TABLE retail_sales
    (
